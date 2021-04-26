@@ -29,7 +29,7 @@ This is an application to track employee IN/OUT using API. You need to build a  
 ---
 ### Time
 
-We always try to give our candidates enough time to solve the puzzle, 2 working days would be a desirable point in time to get a glimpse on what you created.
+We always try to give our candidates enough time to solve the puzzle, 3 working days would be a desirable point in time to get a glimpse on what you created.
 
 ---
 ### Features
