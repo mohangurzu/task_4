@@ -11,12 +11,14 @@ This is an application to track employee IN/OUT using API. You need to build a  
     - employee_position
     - employee_DOB (optional)
     
-3. Ability to track IN/OUT of each employee (Usign API). Generally using biometric/ NFC
+3. Ability to track IN/OUT of each employee (Usign API).
     - api to register/check in IN/OUT record into our database
     - information to track:
+
           - employee id
           - time
           - type: one of in or out
+    > Also secure this using admin JWT token
 4. Dashboard to view the employee list.
 5. Employee detail page to view individual record.    
 
