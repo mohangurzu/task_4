@@ -2,8 +2,7 @@
 
 ## Employee In/Out Tracking System
 
-This is an application to track employee IN/OUT using API. You need to build a 
-REACT JS based dashboard to show following information:
+This is an application to track employee IN/OUT using API. You need to build a  frontend application and backend APIs with following feature.
 
 1. Ability to login into Dashboard as admin.
 2. Ability to register employee with following details.
@@ -14,6 +13,10 @@ REACT JS based dashboard to show following information:
     
 3. Ability to track IN/OUT of each employee (Usign API). Generally using biometric/ NFC
     - api to register/check in IN/OUT record into our database
+    - information to track:
+          - employee id
+          - time
+          - type: one of in or out
 4. Dashboard to view the employee list.
 5. Employee detail page to view individual record.    
 
@@ -56,11 +59,6 @@ We always try to give our candidates enough time to solve the puzzle, 2 working 
 
 ### FAQs:
 
-### How do I start the app?
-
-- At the very beginning please fork or clone this repository into your own private repository.
-- During all development please make regular commits while working on this app.
-- Change the codebase as required.
 
 ### What libraries/frameworks, packages, tools can I use?
 
@@ -73,10 +71,7 @@ We always try to give our candidates enough time to solve the puzzle, 2 working 
   to inform that app has been finished, also please add user as collaborator:
     
     - mohan@gurzu.com
-
-### Can I replace server folder with NextJS/ NestJS code?
- Current template assume that server will use express js. Feel free to replace with NextJS project or 
- NestJS project.   
+  
  
  ### When should I submit the task?
   [Submission Time](#time)
@@ -109,7 +104,5 @@ how it should look. You are free to use any styling tools that you want, SASS, c
 ---
 
 
-
-> The tasks may not be used in whole or in part for own purposes. In particular, publication of the tasks is not permitted. The tasks are protected by copyright.
 
 Enjoy it!
